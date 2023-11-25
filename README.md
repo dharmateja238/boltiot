@@ -1,1 +1,1 @@
-For Web Demo : BOLT IOT Inventrom : [https://dharmateja238.github.io/boltiot/](url) 
+For Web Demo of Inventrom : [https://dharmateja238.github.io/boltiot/](url) 
